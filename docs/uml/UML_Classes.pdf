@@ -9,62 +9,62 @@ endobj
 << /Type /Page /Parent 2 0 R /MediaBox [0 0 842 595] /Resources << /Font << /F1 5 0 R >> >> /Contents 4 0 R >>
 endobj
 4 0 obj
-<< /Length 3691 >>
+<< /Length 3988 >>
 stream
-BT /F1 16 Tf 193.40 557.50 Td (Diagramme de classes) Tj ET
-BT /F1 8.5 Tf 174.14 538.25 Td (Scripts C# pr\351vus pour le jeu) Tj ET
+0 0 0 rg BT /F1 16 Tf 193.40 557.50 Td (Diagramme de classes) Tj ET
+0 0 0 rg BT /F1 8.5 Tf 174.14 538.25 Td (Scripts C# pr\351vus pour le jeu) Tj ET
 0.1 G 0.8 w [] 0 d 42.00 532.00 m 800.00 532.00 l S
 0.1 G 0.8 w [] 0 d 380.00 403.00 m 444.00 403.00 l S
-BT /F1 9 Tf 385.20 414.50 Td (1) Tj ET
-BT /F1 9 Tf 432.20 414.50 Td (1) Tj ET
+0 0 0 rg BT /F1 9 Tf 385.20 414.50 Td (1) Tj ET
+0 0 0 rg BT /F1 9 Tf 432.20 414.50 Td (1) Tj ET
 0.1 G 0.8 w [] 0 d 355.00 213.00 m 444.00 289.00 l S
-BT /F1 8 Tf 364.34 226.00 Td (0..*) Tj ET
-BT /F1 9 Tf 432.70 292.50 Td (1) Tj ET
+0 0 0 rg BT /F1 8 Tf 364.34 226.00 Td (0..*) Tj ET
+0 0 0 rg BT /F1 9 Tf 432.70 292.50 Td (1) Tj ET
 0.1 G 0.8 w [] 0 d 355.00 156.00 m 444.00 156.00 l S
 0.1 G 0.8 w [] 0 d 0.067 0.067 0.067 rg 474.00 156.00 m 459.00 163.00 l 444.00 156.00 l 459.00 149.00 l 474.00 156.00 l B
-BT /F1 8 Tf 373.34 169.00 Td (0..*) Tj ET
-BT /F1 8 Tf 458.96 169.00 Td (1) Tj ET
+0 0 0 rg BT /F1 8 Tf 373.34 169.00 Td (0..*) Tj ET
+0 0 0 rg BT /F1 8 Tf 458.96 169.00 Td (1) Tj ET
 0.1 G 0.8 w [] 0 d 1.000 1.000 1.000 rg 41.00 276.00 m 380.00 276.00 l 380.00 515.00 l 41.00 515.00 l 41.00 276.00 l B
 0.1 G 0.8 w [] 0 d 0.941 0.953 0.965 rg 41.00 477.00 m 380.00 477.00 l 380.00 515.00 l 41.00 515.00 l 41.00 477.00 l B
 0.1 G 0.8 w [] 0 d 41.00 477.00 m 380.00 477.00 l S
-BT /F1 11 Tf 165.62 488.50 Td (PanierController) Tj ET
+0 0 0 rg BT /F1 11 Tf 165.62 488.50 Td (PanierController) Tj ET
 0.1 G 0.8 w [] 0 d 41.00 413.00 m 380.00 413.00 l S
-BT /F1 9 Tf 173.78 452.50 Td (- vitesse: float) Tj ET
-BT /F1 9 Tf 169.19 432.50 Td (- son: AudioSource) Tj ET
-BT /F1 8.5 Tf 136.81 394.75 Td (+ Deplacer\(direction: float\): void) Tj ET
-BT /F1 8.5 Tf 145.47 374.75 Td (+ Attraper\(pomme: Pomme\): void) Tj ET
-BT /F1 8.5 Tf 156.31 354.75 Td (+ AnimerRamassage\(\): void) Tj ET
-BT /F1 8.5 Tf 156.31 334.75 Td (+ JouerParticules\(\): void) Tj ET
-BT /F1 8.5 Tf 171.49 314.75 Td (+ JouerSon\(\): void) Tj ET
+0 0 0 rg BT /F1 9 Tf 173.78 452.50 Td (- vitesse: float) Tj ET
+0 0 0 rg BT /F1 9 Tf 169.19 432.50 Td (- son: AudioSource) Tj ET
+0 0 0 rg BT /F1 8.5 Tf 136.81 394.75 Td (+ Deplacer\(direction: float\): void) Tj ET
+0 0 0 rg BT /F1 8.5 Tf 145.47 374.75 Td (+ Attraper\(pomme: Pomme\): void) Tj ET
+0 0 0 rg BT /F1 8.5 Tf 156.31 354.75 Td (+ AnimerRamassage\(\): void) Tj ET
+0 0 0 rg BT /F1 8.5 Tf 156.31 334.75 Td (+ JouerParticules\(\): void) Tj ET
+0 0 0 rg BT /F1 8.5 Tf 171.49 314.75 Td (+ JouerSon\(\): void) Tj ET
 0.1 G 0.8 w [] 0 d 1.000 1.000 1.000 rg 444.00 265.00 m 795.00 265.00 l 795.00 515.00 l 444.00 515.00 l 444.00 265.00 l B
 0.1 G 0.8 w [] 0 d 0.941 0.953 0.965 rg 444.00 477.00 m 795.00 477.00 l 795.00 515.00 l 444.00 515.00 l 444.00 477.00 l B
 0.1 G 0.8 w [] 0 d 444.00 477.00 m 795.00 477.00 l S
-BT /F1 11 Tf 583.03 488.50 Td (GestionPartie) Tj ET
+0 0 0 rg BT /F1 11 Tf 583.03 488.50 Td (GestionPartie) Tj ET
 0.1 G 0.8 w [] 0 d 444.00 413.00 m 795.00 413.00 l S
-BT /F1 9 Tf 591.96 452.50 Td (- score: int) Tj ET
-BT /F1 9 Tf 575.89 432.50 Td (- pommesRatees: int) Tj ET
-BT /F1 8.5 Tf 571.82 394.75 Td (+ AjouterPoint\(\): void) Tj ET
-BT /F1 8.5 Tf 563.14 374.75 Td (+ AfficherCompteur\(\): void) Tj ET
-BT /F1 8.5 Tf 560.98 354.75 Td (+ AjouterPommeRatee\(\): void) Tj ET
-BT /F1 8.5 Tf 563.14 334.75 Td (+ VerifierVictoire\(\): bool) Tj ET
-BT /F1 8.5 Tf 565.31 314.75 Td (+ VerifierDefaite\(\): bool) Tj ET
-BT /F1 8.5 Tf 537.13 294.75 Td (+ TerminerPartie\(victoire: bool\): void) Tj ET
+0 0 0 rg BT /F1 9 Tf 591.96 452.50 Td (- score: int) Tj ET
+0 0 0 rg BT /F1 9 Tf 575.89 432.50 Td (- pommesRatees: int) Tj ET
+0 0 0 rg BT /F1 8.5 Tf 571.82 394.75 Td (+ AjouterPoint\(\): void) Tj ET
+0 0 0 rg BT /F1 8.5 Tf 563.14 374.75 Td (+ AfficherCompteur\(\): void) Tj ET
+0 0 0 rg BT /F1 8.5 Tf 560.98 354.75 Td (+ AjouterPommeRatee\(\): void) Tj ET
+0 0 0 rg BT /F1 8.5 Tf 563.14 334.75 Td (+ VerifierVictoire\(\): bool) Tj ET
+0 0 0 rg BT /F1 8.5 Tf 565.31 314.75 Td (+ VerifierDefaite\(\): bool) Tj ET
+0 0 0 rg BT /F1 8.5 Tf 537.13 294.75 Td (+ TerminerPartie\(victoire: bool\): void) Tj ET
 0.1 G 0.8 w [] 0 d 1.000 1.000 1.000 rg 61.00 85.00 m 355.00 85.00 l 355.00 236.00 l 61.00 236.00 l 61.00 85.00 l B
 0.1 G 0.8 w [] 0 d 0.941 0.953 0.965 rg 61.00 198.00 m 355.00 198.00 l 355.00 236.00 l 61.00 236.00 l 61.00 198.00 l B
 0.1 G 0.8 w [] 0 d 61.00 198.00 m 355.00 198.00 l S
-BT /F1 11 Tf 193.97 209.50 Td (Pomme) Tj ET
+0 0 0 rg BT /F1 11 Tf 193.97 209.50 Td (Pomme) Tj ET
 0.1 G 0.8 w [] 0 d 61.00 154.00 m 355.00 154.00 l S
-BT /F1 9 Tf 164.39 173.50 Td (- estAttrapee: bool) Tj ET
-BT /F1 8.5 Tf 160.31 135.75 Td (+ EtreAttrapee\(\): void) Tj ET
-BT /F1 8.5 Tf 164.65 115.75 Td (+ ToucherSol\(\): void) Tj ET
+0 0 0 rg BT /F1 9 Tf 164.39 173.50 Td (- estAttrapee: bool) Tj ET
+0 0 0 rg BT /F1 8.5 Tf 160.31 135.75 Td (+ EtreAttrapee\(\): void) Tj ET
+0 0 0 rg BT /F1 8.5 Tf 164.65 115.75 Td (+ ToucherSol\(\): void) Tj ET
 0.1 G 0.8 w [] 0 d 1.000 1.000 1.000 rg 472.00 85.00 m 777.00 85.00 l 777.00 236.00 l 472.00 236.00 l 472.00 85.00 l B
 0.1 G 0.8 w [] 0 d 0.941 0.953 0.965 rg 472.00 198.00 m 777.00 198.00 l 777.00 236.00 l 472.00 236.00 l 472.00 198.00 l B
 0.1 G 0.8 w [] 0 d 472.00 198.00 m 777.00 198.00 l S
-BT /F1 11 Tf 588.03 209.50 Td (GestionPommes) Tj ET
+0 0 0 rg BT /F1 11 Tf 588.03 209.50 Td (GestionPommes) Tj ET
 0.1 G 0.8 w [] 0 d 472.00 154.00 m 777.00 154.00 l S
-BT /F1 9 Tf 580.89 173.50 Td (- intervalle: float) Tj ET
-BT /F1 8.5 Tf 578.98 135.75 Td (+ CreerPomme\(\): Pomme) Tj ET
-BT /F1 8 Tf 248.22 56.50 Td (Composition : les pommes cr\351\351es par GestionPommes appartiennent \340 ce gestionnaire.) Tj ET
+0 0 0 rg BT /F1 9 Tf 580.89 173.50 Td (- intervalle: float) Tj ET
+0 0 0 rg BT /F1 8.5 Tf 578.98 135.75 Td (+ CreerPomme\(\): Pomme) Tj ET
+0 0 0 rg BT /F1 8 Tf 248.22 56.50 Td (Composition : les pommes cr\351\351es par GestionPommes appartiennent \340 ce gestionnaire.) Tj ET
 endstream
 endobj
 5 0 obj
@@ -77,9 +77,9 @@ xref
 0000000058 00000 n 
 0000000115 00000 n 
 0000000241 00000 n 
-0000003983 00000 n 
+0000004280 00000 n 
 trailer
 << /Size 6 /Root 1 0 R >>
 startxref
-4080
+4377
 %%EOF
